@@ -20,7 +20,7 @@ WHAT'S IN THIS DIRECTORY?
 │   ├── allele_data.tsv			# allele structures predicted by ViennaRNA
 │   ├── matrix_data.tsv			# similarity matrix used for clustering and 2° structure assignments
 │   ├── result_data.tsv			# summary of final results
-	└── plots			# folder for plots produced by make_datasets.py
+│   └── plots			# folder for plots produced by make_datasets.py
 ├── figure_1.py				# makes a cluster plot and barplot for any region in the dataset
 ├── figure_2.py				# characterization of fSTRs
 ├── figure_3.py				# accessibility plots
